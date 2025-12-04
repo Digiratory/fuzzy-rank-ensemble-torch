@@ -1,5 +1,9 @@
 # Fuzzy-Rank-Ensemble-Torch
 
+[![GitHub Release](https://img.shields.io/github/v/release/Digiratory/fuzzy-rank-ensemble-torch)](https://github.com/Digiratory/fuzzy-rank-ensemble-torch/releases)
+[![GitHub License](https://img.shields.io/github/license/Digiratory/fuzzy-rank-ensemble-torch)](https://github.com/Digiratory/fuzzy-rank-ensemble-torch/blob/main/LICENSE)
+[![PyPI - Downloads](https://img.shields.io/pypi/dm/fuzzy-rank-ensemble-torch)](https://pypi.org/project/fuzzy-rank-ensemble-torch/)
+
 The torch based implementation of a Fuzzy Rank-based Ensemble compatible with Monai framework and segmentation purpose.
 
 The code is based on our papers:
