@@ -24,7 +24,7 @@ pip install fuzzy-rank-ensemble-torch[monai]
 Finally, you can also install the package directly from GitHub:
 
 ```bash
-pip install git+https://github.com/zhengyang-wang/fuzzy-rank-ensemble-torch.git
+pip install git+https://github.com/Digiratory/fuzzy-rank-ensemble-torch.git
 ```
 
 ## Usage
