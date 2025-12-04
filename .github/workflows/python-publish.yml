@@ -24,8 +24,8 @@ jobs:
       - name: Build release distributions
         run: |
           # NOTE: put your own distribution build steps here.
-          python -m pip install -r requirements-build.py
-          poetry install
+          python -m pip install -r requirements-build.txt
+          # poetry install
           poetry build
 
       - name: Upload distributions
